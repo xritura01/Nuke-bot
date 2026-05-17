@@ -1,0 +1,17 @@
+{
+  "BOT_TOKEN": "Your token here",
+  "MESSAGE_CONTENT": "@everyone | Server Nuked |https://guns.lol/xritura | https://discord.gg/tZvJcStBr",
+  "WEBHOOK_URL": "This webhook for tracking your nukes",
+  "GUILD_NEW_NAME": "ɢᴇᴛ ᴘᴡɴᴇᴅ ʙʏ ᴜᴛɪʟɪᴛʏ",
+  "CHANNEL_AMOUNT": 60,
+  "BATCH_SIZE_CHANNELS": 60,
+  "BATCH_SIZE_DELETE": 30,
+  "BATCH_SIZE_BAN": 4,
+  "TOTAL_MESSAGES": 800,
+  "MAX_MESSAGES_PER_CHANNEL": 18,
+  "TOTAL_WEBHOOKS": 2000,
+  "WEBHOOK_DELAY": 0.06,
+  "SPAM_EMOJIS": ["🏴", "🌙", "🔥", "💀", "👾"],
+  "WEBHOOK_USERNAME": "Nova Runs Cord",
+  "COMMAND_PREFIX": "."
+}
